@@ -25,7 +25,7 @@ After giving valid Credentilas in the signup form, data collected from the user 
 <br />
 
 ## Link for the final website available Online: 
-This site is Published @ [Newsletter Signup](https://evening-earth-25444.herokuapp.com/). 
+This site is Published @ [Heroku](https://evening-earth-25444.herokuapp.com/). 
 
 
 <hr />
