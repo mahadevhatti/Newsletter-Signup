@@ -24,7 +24,14 @@ After giving valid Credentilas in the signup form, data collected from the user 
 <br />
 <br />
 
-## Running instructions :
+## Link for the final website available Online: 
+This site is Published @ [Newsletter Signup](https://evening-earth-25444.herokuapp.com/). 
+
+
+<hr />
+<br />
+<br />
+## Running the app locally :
 1. Clone or download the repository.
 2. Create your own API key and List id in Mailchimp and replace the same code in app.js
 3. Open Command Line (Ex : Hyper), and change your current directory ( ``` cd ``` ) to the directory where the app.js file present in the downloaded file.
