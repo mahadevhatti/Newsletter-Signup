@@ -1,7 +1,7 @@
 # Newsletter-Signup
 #### It is a single page website which is made to collect mail id's of the people who want to signup for our newsletter.
 <br />
-This website got a popwerful functionality that will allow us to sign people up to your maili list.
+This website got a popwerful functionality that will allow us to sign people up to your mail list.
 <br />
 After giving valid Credentilas in the signup form, data collected from the user will be stored in mailchimp.
 <hr />
